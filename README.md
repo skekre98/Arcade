@@ -1,2 +1,3 @@
 # Arcade
-Python scripts to simulate games
+
+Python scripts to simulate interactive games
