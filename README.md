@@ -12,3 +12,6 @@ The snake script simulates the 1976 version of the classic [Snake](https://en.wi
 ![Screenshot](Pics/minesweeper.png)
 
 The minesweeper script simulates the 1960s version of the classic [Minesweeper](https://en.wikipedia.org/wiki/Minesweeper_(video_game)) game. You need to flag all the bombs without clearing any squares with underlying bombs. The script runs on Python 3.7.
+
+## Dependencies
+[Curses](https://docs.python.org/2/howto/curses.html) - Python library for terminal-independent screen-painting and keyboard-handling facility for text-based terminals.
